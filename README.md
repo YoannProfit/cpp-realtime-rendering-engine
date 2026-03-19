@@ -63,6 +63,8 @@ The full source code is not publicly available, but code snippets are provided t
 
 Full source code can be discussed during interviews.
 
+---
+
 ## 📩 Contact
 
 Open to opportunities in C++ / Real-time Rendering / Graphics Programming
